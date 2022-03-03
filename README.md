@@ -23,6 +23,6 @@ Currently a roblox devleoper working on a lore heavy RPG paid acess game that im
 
 **Extras**
 
-TheHackerCoding is a nerd 🤓
+TheHackerCoding is not a  nerd
 **Roblox Development is real development** 
 **Lua isnt a bad language**
