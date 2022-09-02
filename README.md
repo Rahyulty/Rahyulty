@@ -9,6 +9,7 @@ Currently a roblox devleoper working on a lore heavy RPG paid acess game that im
 - NeLua
 (did i mention lua?)
 - Python
+
 **Languages I want to learn**
 - C# 
 - Typescript
