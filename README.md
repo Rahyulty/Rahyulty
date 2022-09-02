@@ -8,12 +8,11 @@ Currently a roblox devleoper working on a lore heavy RPG paid acess game that im
 - Luau
 - NeLua
 (did i mention lua?)
-
+- Python
 **Languages I want to learn**
-- C++
-- Java
+- C# 
+- Typescript
 - Rust
-- Python ( Gets all da jobs ) 
 
 **Companys im intrested in**
 - Google 
