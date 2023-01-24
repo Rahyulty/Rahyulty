@@ -12,7 +12,6 @@ Currently a roblox devleoper working on a lore heavy RPG paid acess game that im
 
 **Languages I want to learn**
 - C# 
-- Typescript
 - Rust
 
 **Companys im intrested in**
