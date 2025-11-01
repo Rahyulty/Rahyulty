@@ -6,8 +6,8 @@
 
 <br>
 
-- 18, Aspiring Game Developer 
-- Currently learning App Development
+- 19, Aspiring Game Developer 
+- Currently learning Game Development
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1oYp9WNcOCiLt9g7RnmjLTJNYSf__ARi0/edit?usp=sharing&ouid=117074944600483669834&rtpof=true&sd=true)
 
 <br><br>
